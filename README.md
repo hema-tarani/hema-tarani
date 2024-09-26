@@ -1,7 +1,7 @@
-## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I’m [Hema Tarani!](http://hema-tarani.com/)
+## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I’m [Hema Tarani!](http://hematarani.com/)
 
 <!--
-**hema-tarani/hema-tarani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**hematarani/hema-tarani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
