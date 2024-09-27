@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ### About Me 🚀
 
 - 👨‍💻 I'm a Front End Developer
-- 👀 I’m interested in JavaScript, React, Java and Python
+- 👀 I’m interested in JavaScript, React, Emberjs, Java and Python
 - 🌱 I’m currently learning Python (Django Framework)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=hema-tarani.hema-tarani)&nbsp;
